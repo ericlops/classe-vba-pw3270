@@ -29,3 +29,6 @@ Ficaria:
 ```vba
   Private Declare Function hllapi_init Lib "libhllapi.dll" (ByVal tp As String) As Long
 ```
+
+
+**Para exemplos de utilização, acesse o arquivo [Exemplos.md](Exemplos.md)**
