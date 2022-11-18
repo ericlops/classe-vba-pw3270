@@ -1,4 +1,4 @@
-## Exemplos de uso da classe
+## Exemplos de uso da classe VBA - PW3270
 
 **1. Exemplo básico:**
 ```vb
