@@ -22,10 +22,10 @@ Para instalar, tem duas opções:
 **OBS**: Dependendo da instalação, a sua dll pode ter o nome de libhllapi.dll. Assim, basta mudar o nome nas declarações.
 
 Por Exemplo:
-```
+```vba
   Private Declare Function hllapi_init Lib "libhllapi32.dll" (ByVal tp As String) As Long
 ```
 Ficaria:
-```
+```vba
   Private Declare Function hllapi_init Lib "libhllapi.dll" (ByVal tp As String) As Long
 ```
