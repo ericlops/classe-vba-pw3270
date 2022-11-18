@@ -8,7 +8,7 @@ Para instalar, tem duas opções:
 
   - Crie uma classe com o nome clsLibHllapi (Ou o nome que preferir, a classe é sua!), 
     clicando no menu *inserir > Módulo de classe*;
-  - Copie o código do arquivo [clsLibHllApi_32_64_GIT.cls](clsLibHllApi_32_64_GIT.cls) e cole na classe criada;
+  - Copie o código do arquivo [clsLibHllApi_32_64_GIT.cls](clsLibHllApi_32_64_GIT.cls) **a partir da linha 10** e cole na classe criada;
   - Divirta-se!
 
 **2. Importando a Classe:**
